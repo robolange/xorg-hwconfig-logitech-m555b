@@ -1,0 +1,13 @@
+Source: xorg-hwconfig-logitech-m555b
+Section: x11
+Priority: optional
+Maintainer: Robert Lange <rlange@corusa.net>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+
+Package: xorg-hwconfig-logitech-m555b
+Architecture: all
+Depends: xserver-xorg
+Description: X.Org Hardware Configuration for Logitech M555b Bluetooth Mouse
+ This package provides X.Org configuration files for the Logitech M555b
+ Bluetooth mouse.
